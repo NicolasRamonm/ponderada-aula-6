@@ -54,13 +54,13 @@ Código completo do projeto, separado em seções para facilitar a leitura e com
 
 // Configurações de Wi-Fi
 const char* ssid = "Inteli.Iot";
-const char* password = "@Intelix10T#";
+const char* password = "********";
 
 // Configurações do HiveMQ
 const char* mqtt_server = "4270349ced334e7c826e8bbf9466d1f6.s1.eu.hivemq.cloud";
 const int mqtt_port = 8883;
 const char* mqtt_user = "cidinha";
-const char* mqtt_pass = "Cida#Abundance123";
+const char* mqtt_pass = "*********";
 const char* clientID = "ESP32Farol";
 const char* topic = "meu/topico/teste";
 
@@ -220,7 +220,7 @@ void loop() {
 
 // Configurações de Wi-Fi
 const char* ssid = "Inteli.Iot";
-const char* password = "@Intelix10T#";
+const char* password = "*******;
 
 // Configurações do HiveMQ
 const char* mqtt_server = "4270349ced334e7c826e8bbf9466d1f6.s1.eu.hivemq.cloud";
