@@ -220,7 +220,7 @@ void loop() {
 
 // Configurações de Wi-Fi
 const char* ssid = "Inteli.Iot";
-const char* password = "*******;
+const char* password = "*******";
 
 // Configurações do HiveMQ
 const char* mqtt_server = "4270349ced334e7c826e8bbf9466d1f6.s1.eu.hivemq.cloud";
